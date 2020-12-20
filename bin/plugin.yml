@@ -1,0 +1,33 @@
+name: ChisdealHDPlugin
+author: ChisdealHDYT
+version: 1.0
+main: co.uk.chisdealhd.customplugin.ChisdealHDPlugin
+api-version: '1.13'
+description: ChisdealHDYT Custom Plugin
+depend: [PlaceholderAPI]
+
+commands:
+  perks:
+    description: Shows perks
+    usage: /perks
+  rawr:
+    description: ChisdealHDYT Command
+    usage: /rawr
+  uwu:
+    description: ChisdealHDYT Command
+    usage: /uwu
+  discord:
+    description: ChisdealHDYT Command
+    usage: /discord
+  headpats:
+    description: ChisdealHDYT Command
+    usage: /headpats
+  communitystream:
+    description: Checks Community Stream Online
+    usage: /communitystream
+  stream:
+    description: Shows Online stats on Stream
+    usage: /stream
+  reload-chisdealhdyt:
+    description: Reload Config
+    usage: /reload-chisdealhdyt

@@ -1,0 +1,12 @@
+perks:
+ - '&9&m---------&9{&f{PLAYER} Perks&9}&m---------'
+ - '&9Fly: &f%luckperms_expiry_time_essentials.fly%'
+ - '&9Dragon Respawn: &f%dragontimer_countdown%'
+ - '&9MCMMO DOUBLE XP EVENT: &f%luckperms_inherited_expiry_time_mcmmo.perks.xp.double.all%'
+ - '&9&m-------------------------------'
+discord:
+ - '&9&m---------&9{&f{PLAYER}&9}&m---------'
+ - '&9Join Our Discord Community Server With Awesome Streamers and many more'
+ - '&9Our Discord Link: &fdiscord.gg/LINK'
+ - '&9&m-------------------------------'
+#Placeholders for perks {PLAYER} = Player name
